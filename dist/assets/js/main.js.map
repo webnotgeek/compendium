@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.js","sourcesContent":["/**\n * Pixel2HTML - /\n */\n\nvar msg = 'Pixel2HTML - /';\n\nfunction printLog(log){\n    'use strict';\n  return console && console.log(log);\n}\n\nprintLog(msg);\n\n\n"]}
