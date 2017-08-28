@@ -1,7 +1,7 @@
 # 
 
 ## Installing dependencies & running up
-To work, the **Pixel2HTML Boilerplate** needs to install some dependencies to run the options you select.
+to work with this boilerplae you needs to install some dependencies to run the options you select.
 For this job, run this command in your shell
 
 ```
@@ -139,4 +139,3 @@ Sublime Text, Visual Studio, Emacs Notepad++ and more.
 
 ---
 
-##### Generated with 💕 by Pixel2HTML v1.3.2 @ 2017-08-02T15:43:11+02:00
